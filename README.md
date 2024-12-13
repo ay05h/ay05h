@@ -96,6 +96,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ay05h&show_icons=true&locale=en" alt="ay05h" /></p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ay05h&" alt="ay05h" />
-</p>
