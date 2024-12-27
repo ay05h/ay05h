@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Rai</h1>
-<h3 align="center">Passionate BTech student focused on AI, Machine Learning, and Large Language Models (LLMs), exploring cutting-edge technologies and innovative solutions through academic projects, research, and hands-on experience.</h3>
+<h3 align="left">Passionate BTech student focused on AI, Machine Learning, and Large Language Models (LLMs), exploring cutting-edge technologies and innovative solutions through academic projects, research, and hands-on experience.</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Boy Coding" width="400" />
