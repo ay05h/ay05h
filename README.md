@@ -28,9 +28,12 @@
 
 ## 🛠 Tools & Technologies
 
-![Tools](https://skillicons.dev/icons?i=linux,windows,canva,huggingface,anaconda,mongodb,vscode,git,github,azure)
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow" width="50" height="50"/>  
-<img src="https://upload.wikimedia.org/wikipedia/en/9/98/Discord_logo.svg" alt="Discord" width="50" height="50"/>
+![Tools](https://skillicons.dev/icons?i=linux,windows,anaconda,mongodb,vscode,git,github,azure) 
+<img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="50" height="50" style="display:inline-block;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow" width="50" height="50" style="display:inline-block;"/> 
+<img src="https://upload.wikimedia.org/wikipedia/en/9/98/Discord_logo.svg" alt="Discord" width="50" height="50" style="display:inline-block;"/>
+
+
 
 ---
 
@@ -54,6 +57,7 @@
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ay05h&show_icons=true&theme=dark&hide_border=false)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ay05h&theme=dark)](https://git.io/streak-stats)
+
 
 ---
 
