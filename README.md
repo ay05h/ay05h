@@ -24,12 +24,14 @@
 <a href="https://instagram.com/_ay05h_">![Instagram](https://skillicons.dev/icons?i=instagram)</a>
 <a href="mailto:ayushrai4629@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
 
+
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ay05h&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ay05h&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ay05h&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 📊 GitHub Stats (Updated):
+![](https://github-readme-stats.vercel.app/api?username=ay05h&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=30)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ay05h&theme=dark&hide_border=false&cache_seconds=30)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ay05h&theme=dark&hide_border=false&layout=compact&count_private=true&cache_seconds=30)
 ---
+
 ## 🎯 Competitive Coding Profile
 
 <a href="https://www.leetcode.com/ayush"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - Ayush" height="50" width="50" /></a>
