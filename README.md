@@ -27,12 +27,12 @@
 
 ---
 # 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=ay05h&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=30)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=ay05h&theme=dark&show_icons=true&hide_border=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ay05h&theme=dark&hide_border=false&cache_seconds=30)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ay05h&theme=dark&hide_border=false&layout=compact&count_private=true&cache_seconds=30)
 ---
-
-
+  
 ## 🎯 Competitive Coding Profile
 
 <a href="https://www.leetcode.com/ayush"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - Ayush" height="50" width="50" /></a>
