@@ -1,79 +1,108 @@
-# Ayush Kumar Rai
+<h1 align="center">Ayush Kumar Rai</h1>
+<h3 align="center">Software Development Engineer Intern @ Oracle | CSE (AI) Student | Full-Stack & Applied AI Developer</h3>
 
-> SDE Intern @ Oracle · AI / Backend / Full-Stack · B.Tech CS (AI), Amrita Vishwa Vidyapeetham
-
-Building production-grade systems at Oracle — automation pipelines, full-stack internal tooling, and LLM-assisted developer workflows. I care about shipping reliable software that reduces manual overhead and improves the way engineers work.
-
-| 90% manual effort cut | 70% productivity gain | 78.8% F1 (published research) |
-|---|---|---|
-| via Jira automation | with AI bug triage | on xBD benchmark |
+<p align="center">
+  <a href="https://github.com/ay05h"><img src="https://img.shields.io/badge/GitHub-ay05h-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ayush-kumar-rai-ay05h"><img src="https://img.shields.io/badge/LinkedIn-Ayush%20Kumar%20Rai-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/Ay05h/"><img src="https://img.shields.io/badge/LeetCode-Ay05h-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:dev.ayushkumar.in@gmail.com"><img src="https://img.shields.io/badge/Email-dev.ayushkumar.in%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-## Experience
+## About Me
 
-**Software Development Engineer Intern — Oracle** · Jan 2026 – Present · Hyderabad
+I am a Software Development Engineer Intern at **Oracle** and a B.Tech Computer Science and Engineering student specializing in **Artificial Intelligence**. I enjoy building production-oriented backend systems, full-stack applications, automation workflows, and applied AI tools that reduce manual work and improve developer productivity.
 
-- Automated end-to-end Jira ticket creation for Backpatch & Release Candidate processes, cutting manual effort by 90%
-- Designed and shipped a full-stack Backpatch Request & Approval Portal in Oracle APEX with role-based access control
-- Built a Codex-based AI workflow for REST API bug triage — LLM-assisted root cause analysis and fix suggestions, improving developer productivity by 70%
+My current interests include **backend engineering**, **REST API design**, **LLM-powered developer workflows**, **retrieval-augmented generation**, **computer vision**, and **real-time systems**.
 
-`Java · PL/SQL · Oracle APEX · REST APIs · Jira Automation · LLM Integration`
+---
+<p align="center"> <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Boy Coding" width="400" /> </p>
+
+## Current Snapshot
+
+| Area | Details |
+| --- | --- |
+| Current Role | Software Development Engineer Intern, Oracle |
+| Education | B.Tech in Computer Science and Engineering, Artificial Intelligence |
+| University | Amrita Vishwa Vidyapeetham |
+| CGPA | 8.71 / 10.0 |
+| Coding Practice | 250+ DSA problems solved across LeetCode, GeeksforGeeks, and other platforms |
+| Core Focus | Backend systems, full-stack development, LLM/RAG applications, automation, developer tooling |
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python · TypeScript · Java · JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=java,py,js,ts,react,nextjs,nodejs,express,flask,postgres,mongodb,mysql,docker,kubernetes,git,github,tailwind,vite" alt="Tech Stack Icons" />
+</p>
 
-**Backend & Web:** Node.js · Express.js · Next.js · React.js · Flask · FastAPI · Socket.IO · REST APIs
-
-**AI / ML:** LLM APIs (Gemini, OpenAI) · RAG · Prompt Engineering · PyTorch · Hugging Face · scikit-learn
-
-**Databases & DevOps:** PostgreSQL · MongoDB · PL/SQL · Docker · Kubernetes · Jenkins · Git
-
----
-
-## Selected Projects
-
-**[Helpdesk — AI Banking Ticket Management](https://github.com/ay05h/intelli-complaint-hub)**
-- Full-stack banking support platform with AI-assisted ticket routing, priority scoring, and Gemini LLM summarization via Inngest background jobs — cutting documentation time by 60%
-- JWT + RBAC auth across User, Moderator, and Admin roles
-
-`Node.js · Express.js · MongoDB · Inngest · Gemini API`
-
-**[CareCompanion — AI Health Companion](https://github.com/ay05h/CareCompanion)**
-- Voice-first health companion with RAG pipeline over curated medical sources, real-time Tavily web retrieval, SSE response streaming, and emotion detection for caregiver alerts
-
-`Python · Flask · TypeScript · RAG · Hugging Face · Tavily API`
-
-**[Chatter — Real-Time Messaging & Calling](https://github.com/ay05h/chat-app)**
-- Production-grade platform with WebRTC video, Socket.IO messaging at sub-200ms latency, voice messages, media sharing, and online presence indicators
-
-`React.js · Node.js · MongoDB · Socket.IO · Cloudinary · JWT`
+| Category | Technologies |
+| --- | --- |
+| Languages | Java, Python, JavaScript, TypeScript, PL/SQL |
+| Backend | Node.js, Express.js, Flask, REST APIs, Socket.IO, Inngest |
+| Frontend | React.js, Next.js, Tailwind CSS, Vite, React Hook Form |
+| Databases | PostgreSQL, MongoDB, MySQL, Oracle PL/SQL |
+| AI / ML | LLM APIs, Gemini, OpenAI, RAG, Prompt Engineering, Hugging Face, PyTorch, scikit-learn, NumPy, Pandas |
+| DevOps & Tools | Git, GitHub, Docker, Kubernetes, Jenkins, Postman, Cloudinary, Appwrite |
+| Core CS | Data Structures & Algorithms, System Design, OOP, Computer Networking |
 
 ---
 
-## Publication
+## Professional Experience
 
-**DisasterReliefGPT: Multimodal AI for Autonomous Disaster Impact Assessment**
-*Technologies (MDPI), Vol. 14, Issue 3, 2026 · DOI: 10.3390/technologies14030179*
-Multimodal pipeline: ResNet34 + Qwen2-VL + LLM · 78.8% F1 on xBD benchmark (850K+ structures, 45 disaster events)
+### Software Development Engineer Intern — Oracle
+`Jan 2026 - Present` · Hyderabad, India
 
----
-
-## Achievements
-
-- Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
-- Amazon Machine Learning Challenge 2024 — top performer, national level
-- Amrita Generative AI Value Health Hackathon 2024 — finalist
-- 250+ DSA problems solved across LeetCode, GFG, and other platforms
+- Automated end-to-end **Backpatch** and **Release Candidate** ticket creation workflows by generating standardized Jira tickets, enforcing release metadata, and scripting engineering-to-release handoffs.
+- Built a full-stack **Backpatch Request and Approval Portal** in Oracle APEX, bringing submission, review, approval, and status tracking into a single internal tool.
+- Developed a **Codex-based REST API bug-triage workflow** that reads Jira ticket context, retrieves relevant API code, reasons over likely root causes, and generates targeted fix suggestions.
+- Worked with **Java, PL/SQL, Oracle APEX, REST APIs, Jira automation, internal Oracle tooling, and LLM integration**.
 
 ---
 
-## Connect
+## Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar-rai-ay05h)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dev.ayushkumar.in@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ay05h)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ay05h)
+| Project | Description | Tech Stack |
+| --- | --- | --- |
+| [Helpdesk - AI-Powered Banking Ticket Management System](https://github.com/ay05h/intelli-complaint-hub) | Full-stack banking support platform that classifies tickets, assigns priority, routes issues to moderators, and uses LLM-powered background jobs for summarization and escalation. | Node.js, Express.js, MongoDB, JWT, Inngest, Gemini API, Nodemailer |
+| [CareCompanion - AI Health Companion](https://github.com/ay05h/CareCompanion) | Voice-enabled AI health companion designed for specially abled users, featuring RAG-based responses, real-time search, SSE streaming, and caregiver alerts for severe negative sentiment. | Python, TypeScript, Flask, RAG, Hugging Face, Tavily Search API, LLM APIs, SSE |
+| [Chatter - Real-Time Messaging & Calling Platform](https://github.com/ay05h/chat-app) | Real-time communication app with private messaging, WebRTC video calls, voice messages, media sharing, presence tracking, and persistent chat history. | React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.IO, Cloudinary, JWT |
+
+---
+
+## Research & Publication
+
+### DisasterReliefGPT: Multimodal Artificial Intelligence for Autonomous Disaster Impact Assessment and Crisis Communication
+
+Published in **Technologies (MDPI), Vol. 14, Issue 3, 2026**  
+DOI: [`10.3390/technologies14030179`](https://doi.org/10.3390/technologies14030179)
+
+- Designed and implemented a multimodal AI pipeline integrating **ResNet34**, **Qwen2-VL**, and a large language model for disaster damage classification and structured crisis-report generation.
+- Evaluated the system across large-scale disaster imagery and achieved strong benchmark performance on damage classification tasks.
+
+---
+
+## Achievements & Certifications
+
+- **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional**
+- **Amazon Machine Learning Challenge 2024** — recognized as a top performer
+- **Amrita Generative AI Value Health Hackathon 2024** — finalist
+- Solved **250+ data structures and algorithms problems** across LeetCode, GeeksforGeeks, and other platforms
+- Completed **The Data Science Course: Complete Data Science Bootcamp 2023** by 365 Careers
+
+---
+
+## Currently Exploring
+
+- Scalable backend and full-stack system design
+- AI-assisted developer productivity tools
+- Retrieval-augmented generation and multimodal AI
+- Real-time systems with WebSockets, WebRTC, and event-driven workflows
+
+---
+
+<p align="center">
+  <strong>Always learning. Always building.</strong>
+</p>
