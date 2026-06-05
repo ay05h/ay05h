@@ -1,108 +1,122 @@
-<h1 align="center">Ayush Kumar Rai</h1>
-<h3 align="center">Software Development Engineer Intern @ Oracle | CSE (AI) Student | Full-Stack & Applied AI Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/ay05h"><img src="https://img.shields.io/badge/GitHub-ay05h-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/ayush-kumar-rai-ay05h"><img src="https://img.shields.io/badge/LinkedIn-Ayush%20Kumar%20Rai-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/Ay05h/"><img src="https://img.shields.io/badge/LeetCode-Ay05h-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:dev.ayushkumar.in@gmail.com"><img src="https://img.shields.io/badge/Email-dev.ayushkumar.in%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ayush%20Kumar%20Rai&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20Integration&descAlignY=58&descSize=18&animation=fadeIn" />
 
----
+<!-- Typing animation -->
 
-## About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%8C%90;AI+%26+LLM+Integration+%F0%9F%A4%96;Node.js+%7C+Java+%7C+Python+%F0%9F%9A%80;Building+Scalable+Systems+%E2%9C%A8)](https://git.io/typing-svg)
 
-I am a Software Development Engineer Intern at **Oracle** and a B.Tech Computer Science and Engineering student specializing in **Artificial Intelligence**. I enjoy building production-oriented backend systems, full-stack applications, automation workflows, and applied AI tools that reduce manual work and improve developer productivity.
+<br/>
 
-My current interests include **backend engineering**, **REST API design**, **LLM-powered developer workflows**, **retrieval-augmented generation**, **computer vision**, and **real-time systems**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kumar%20Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar-rai-ay05h)
+[![GitHub followers](https://img.shields.io/github/followers/ay05h?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/ay05h)
+[![Profile Views](https://komarev.com/ghpvc/?username=ay05h&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/ay05h)
 
----
-<p align="center"> <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Boy Coding" width="400" /> </p>
-
-## Current Snapshot
-
-| Area | Details |
-| --- | --- |
-| Current Role | Software Development Engineer Intern, Oracle |
-| Education | B.Tech in Computer Science and Engineering, Artificial Intelligence |
-| University | Amrita Vishwa Vidyapeetham |
-| CGPA | 8.71 / 10.0 |
-| Coding Practice | 250+ DSA problems solved across LeetCode, GeeksforGeeks, and other platforms |
-| Core Focus | Backend systems, full-stack development, LLM/RAG applications, automation, developer tooling |
+</div>
 
 ---
 
-## Tech Stack
+## 👨‍💻 About Me
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,py,js,ts,react,nextjs,nodejs,express,flask,postgres,mongodb,mysql,docker,kubernetes,git,github,tailwind,vite" alt="Tech Stack Icons" />
-</p>
+I'm **Ayush Kumar Rai**, a **Software Development Engineer** with production experience at Oracle building internal full-stack tools, automation pipelines, and AI-assisted workflows. I'm passionate about shipping scalable, reliable systems that reduce manual overhead and improve developer productivity.
 
-| Category | Technologies |
-| --- | --- |
-| Languages | Java, Python, JavaScript, TypeScript, PL/SQL |
-| Backend | Node.js, Express.js, Flask, REST APIs, Socket.IO, Inngest |
-| Frontend | React.js, Next.js, Tailwind CSS, Vite, React Hook Form |
-| Databases | PostgreSQL, MongoDB, MySQL, Oracle PL/SQL |
-| AI / ML | LLM APIs, Gemini, OpenAI, RAG, Prompt Engineering, Hugging Face, PyTorch, scikit-learn, NumPy, Pandas |
-| DevOps & Tools | Git, GitHub, Docker, Kubernetes, Jenkins, Postman, Cloudinary, Appwrite |
-| Core CS | Data Structures & Algorithms, System Design, OOP, Computer Networking |
+- 🔭 Currently **SDE Intern at Oracle** — automating workflows, building internal tools, and integrating AI for productivity
+- 💻 Proven expertise across **Node.js APIs**, **Java services**, **real-time systems**, and **REST architecture**
+- 🤖 Applied **LLM integration** in production — building AI-powered bug triage, ticket routing, and automation systems
+- 🌱 Strong foundation in **full-stack development** with focus on scalability and reliability
+- 📍 Based in **Hyderabad, Telangana** | Studying at **Amrita Vishwa Vidyapeetham** (Oct 2022 – Jul 2026)
+- 📫 Reach me at **dev.ayushkumar.in@gmail.com** | Connect on **[LinkedIn](https://linkedin.com/in/ayush-kumar-rai-ay05h)** | **[LeetCode](https://leetcode.com/u/Ay05h)**
 
 ---
 
-## Professional Experience
+## 🛠️ Tech Stack
 
-### Software Development Engineer Intern — Oracle
-`Jan 2026 - Present` · Hyderabad, India
+### 💻 Languages & Core
 
-- Automated end-to-end **Backpatch** and **Release Candidate** ticket creation workflows by generating standardized Jira tickets, enforcing release metadata, and scripting engineering-to-release handoffs.
-- Built a full-stack **Backpatch Request and Approval Portal** in Oracle APEX, bringing submission, review, approval, and status tracking into a single internal tool.
-- Developed a **Codex-based REST API bug-triage workflow** that reads Jira ticket context, retrieves relevant API code, reasons over likely root causes, and generates targeted fix suggestions.
-- Worked with **Java, PL/SQL, Oracle APEX, REST APIs, Jira automation, internal Oracle tooling, and LLM integration**.
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🌐 Web Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🤖 AI & LLM Integration
+
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF9500?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-663399?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-9B59B6?style=for-the-badge)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
+
+### 🛠️ Tools & Frameworks
+
+![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-000000?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
-## Featured Projects
+---
+## 🏆 Achievements & Certifications
 
-| Project | Description | Tech Stack |
-| --- | --- | --- |
-| [Helpdesk - AI-Powered Banking Ticket Management System](https://github.com/ay05h/intelli-complaint-hub) | Full-stack banking support platform that classifies tickets, assigns priority, routes issues to moderators, and uses LLM-powered background jobs for summarization and escalation. | Node.js, Express.js, MongoDB, JWT, Inngest, Gemini API, Nodemailer |
-| [CareCompanion - AI Health Companion](https://github.com/ay05h/CareCompanion) | Voice-enabled AI health companion designed for specially abled users, featuring RAG-based responses, real-time search, SSE streaming, and caregiver alerts for severe negative sentiment. | Python, TypeScript, Flask, RAG, Hugging Face, Tavily Search API, LLM APIs, SSE |
-| [Chatter - Real-Time Messaging & Calling Platform](https://github.com/ay05h/chat-app) | Real-time communication app with private messaging, WebRTC video calls, voice messages, media sharing, presence tracking, and persistent chat history. | React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.IO, Cloudinary, JWT |
+- **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional** — Validates expertise in deploying and working with Oracle Cloud generative AI services
+- **Amrita Generative AI Value Health Hackathon 2024, Finalist** — Selected among top teams in a generative AI healthcare hackathon
+- **Amazon Machine Learning Challenge 2024** — Recognized as a top performer in a national-level ML competition hosted by Amazon
+- **250+ DSA Problems Solved** — Across LeetCode, GeeksforGeeks, and competitive coding platforms
+- **The Data Science Course: Complete Data Science Bootcamp 2023** — Comprehensive training in data science, Python, and statistical modelling by 365 Careers
+- **CGPA: 8.71 / 10.0** — Bachelor of Technology in Computer Science and Engineering with AI specialization (Amrita Vishwa Vidyapeetham)
+
 
 ---
 
-## Research & Publication
+## 🤝 Let's Connect
 
-### DisasterReliefGPT: Multimodal Artificial Intelligence for Autonomous Disaster Impact Assessment and Crisis Communication
+<div align="center">
 
-Published in **Technologies (MDPI), Vol. 14, Issue 3, 2026**  
-DOI: [`10.3390/technologies14030179`](https://doi.org/10.3390/technologies14030179)
+I'm always open to interesting conversations, collaborations, and new opportunities.
 
-- Designed and implemented a multimodal AI pipeline integrating **ResNet34**, **Qwen2-VL**, and a large language model for disaster damage classification and structured crisis-report generation.
-- Evaluated the system across large-scale disaster imagery and achieved strong benchmark performance on damage classification tasks.
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar-rai-ay05h)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.ayushkumar.in@gmail.com)
+[![GitHub](https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ay05h)
 
----
-
-## Achievements & Certifications
-
-- **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional**
-- **Amazon Machine Learning Challenge 2024** — recognized as a top performer
-- **Amrita Generative AI Value Health Hackathon 2024** — finalist
-- Solved **250+ data structures and algorithms problems** across LeetCode, GeeksforGeeks, and other platforms
-- Completed **The Data Science Course: Complete Data Science Bootcamp 2023** by 365 Careers
+</div>
 
 ---
 
-## Currently Exploring
+<div align="center">
 
-- Scalable backend and full-stack system design
-- AI-assisted developer productivity tools
-- Retrieval-augmented generation and multimodal AI
-- Real-time systems with WebSockets, WebRTC, and event-driven workflows
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
 
----
+_"Code is like humor. When you have to explain it, it's bad."_ — Cory House
 
-<p align="center">
-  <strong>Always learning. Always building.</strong>
-</p>
+⭐️ **If you find my work useful, consider giving a star to the repos you like!**
+
+</div>
